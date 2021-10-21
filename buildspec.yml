@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   parameter-store:
-    AWS_ACCESS_KEY_ID: hello-world-skill-accesskey
-    AWS_SECRET_ACCESS_KEY: hello-world-skill-secretkey
-    ASK_VENDOR_ID: hello-world-skill-vendorid
-    ASK_REFRESH_TOKEN: hello-world-skill-refresh-token
+    AWS_ACCESS_KEY_ID: /hello-world-skill/accesskey
+    AWS_SECRET_ACCESS_KEY: /hello-world-skill/secretkey
+    ASK_VENDOR_ID: /hello-world-skill/vendorid
+    ASK_REFRESH_TOKEN: /hello-world-skill/refresh-token
 
 phases:
   install:
