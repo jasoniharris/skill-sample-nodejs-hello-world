@@ -16,9 +16,7 @@
           "deployState": {
             "default": {
               "lambda": {
-                "arn": "arn:aws:lambda:eu-west-2:089650354027:function:ask-skill-sample-nodejs-he-alexa-default-1634849418923",
-                "lastModified": "2021-10-21T21:15:33.114+0000",
-                "revisionId": "232eeb71-5092-4d88-ba8a-3437cbe1bf37"
+                "arn": "arn:aws:lambda:eu-west-2:089650354027:function:ask-skill-sample-nodejs-he-alexa-default-1634849418923"
               },
               "iamRole": "arn:aws:iam::089650354027:role/ask-lambda-skill-sample-nodejs-hello-world-1634849404549"
             }
