@@ -1,7 +1,14 @@
 {
   "askcliStatesVersion": "2020-03-31",
   "profiles": {
-    "__ENVIRONMENT_ASK_PROFILE__": {
+    "default": {
+      "skillInfrastructure": {
+        "@ask-cli/lambda-deployer": {
+          "deployState": {}
+        }
+      }
+    },
+    "alexa": {
       "skillId": "amzn1.ask.skill.38715d95-1ac7-45bb-a6b5-c078a78659ca",
       "skillMetadata": {
         "lastDeployHash": "wPvwrMAbnRhdcGJCU51bffD0WG0="
